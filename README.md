@@ -53,5 +53,3 @@ Streamlining enterprise IT through automation, security, and infrastructure exce
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justin-belter-5067a7253/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=flat&logo=github&logoColor=white)](https://github.com/JustinBelterKTC)
-
-Actively seeking collaboration opportunities with organizations that value mature IT operations, automation at scale, and measurable security outcomes.
