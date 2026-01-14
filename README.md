@@ -1,30 +1,57 @@
-## About Me
-I'm an **Senior IT Operations Engineer** at **Kinetic Solutions LLC**, specializing in automation, security, and IT infrastructure management. My work revolves around streamlining operations, enhancing security, and ensuring system reliability.
+<div align="center">
 
-## Technical Skills
-### Programming Languages:
-- Python
-- PowerShell
-- Shell Scripting
-- HTML & JavaScript
+# Justin Belter  
+**Senior IT Operations Engineer** • Kinetic Solutions LLC  
 
-### Tools & Technologies:
-- **Tanium** – Endpoint security & management
-- **ServiceNow** – ITSM & automation
-- **Ansible** – Configuration management & automation (Including custom Collections, Modules, and Roles)
-- **BigFix** – Patch/Endpoint management
-- **Nagios** – Infrastructure monitoring
-- **GitHub Automation** - Automate workflows using GitHub actions
-- **Integrations** - Intergate platforms leveraging API's to streamline business processed and reduce manual effort
+Streamlining enterprise IT through automation, security, and infrastructure excellence.
 
-## What I Do
-- Automate IT operations and security processes
-- Develop scripts and integrations to optimize workflows
-- Implement and maintain enterprise security solutions
-- Manage IT infrastructure with efficiency and precision
+</div>
 
-## Connect with Me
-- **GitHub:** [JustinBelterKTC](https://github.com/JustinBelterKTC)
-- **LinkedIn:** [Justin Belter](https://www.linkedin.com/in/justin-belter-5067a7253/)
+---
 
-Let's collaborate on IT automation, security, and system optimization!
+### Core Expertise & Certifications
+
+**Tanium Certifications**  
+![Tanium](https://img.shields.io/badge/Tanium_Certified_Operator-TCO-A52121?style=flat&logo=tanium&logoColor=white)  
+![Tanium](https://img.shields.io/badge/Tanium_Cloud_Deployment_Specialist-TCDS-A52121?style=flat&logo=tanium&logoColor=white)
+
+**ServiceNow Certifications**  
+![ServiceNow CSA](https://img.shields.io/badge/ServiceNow_Certified_Administrator-CSA-0C6E41?style=flat&logo=servicenow&logoColor=white)  
+![ServiceNow CIS-SAM](https://img.shields.io/badge/CIS_Software_Asset_Management-CIS--SAM-0C6E41?style=flat&logo=servicenow&logoColor=white)  
+[View Full ServiceNow Learning Profile](https://learning.servicenow.com/lxp?id=nl_public&user=jstnbelter895099)
+
+---
+
+### Technical Proficiencies
+
+**Programming Languanges**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=phpstorm&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-121011?style=flat&logo=gnu-bash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css&logoColor=white)
+
+**Enterprise Platforms**
+
+![Ansible/AWX/AAP](https://img.shields.io/badge/Ansible/AWX/AAP-Endpoint_Management_&_Automation-EE0000?style=flat&logo=ansible&logoColor=white)  
+![Tanium](https://img.shields.io/badge/Tanium-Unifed_Endpoint_Management-A52121?style=flat&logo=tanium&logoColor=white)  
+![ServiceNow](https://img.shields.io/badge/ServiceNow-ITSM/CMDB/ITAM/ITOM-0C6E41?style=flat&logo=servicenow&logoColor=white)  
+![HCL BigFix](https://img.shields.io/badge/HCL_BigFix-Patch_&_Endpoint_Management-4178BE?style=flat)  
+![NagiosLS/NagiosXI](https://img.shields.io/badge/NagiosLS/NagiosXI-Monitoring/Alerting-000000?style=flat&logo=nagios&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-Source_Control_&_Pipeline_Automation-000000?style=flat&logo=github&logoColor=white)
+
+**Specialized Skills**  
+- Deep API-driven integrations between Tanium, ServiceNow, Ansible, and other platforms  
+- GitHub Actions for CI/CD and IT workflow automation  
+- Endpoint hardening, compliance automation, and security orchestration
+
+---
+
+### Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justin-belter-5067a7253/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=flat&logo=github&logoColor=white)](https://github.com/JustinBelterKTC)
+
+Actively seeking collaboration opportunities with organizations that value mature IT operations, automation at scale, and measurable security outcomes.
