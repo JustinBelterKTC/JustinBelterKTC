@@ -24,14 +24,19 @@ Streamlining enterprise IT through automation, security, and infrastructure exce
 
 ### Technical Proficiencies
 
-**Programming Languanges**
+**Programming Languanges/Tools**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=phpstorm&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-121011?style=flat&logo=gnu-bash&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4d4d4d?style=flat&logo=gnu-bash&logoColor=white)  <!-- Dark gray for terminal feel -->
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css&logoColor=white)
+![Jinja](https://img.shields.io/badge/Jinja-b41717?style=flat&logo=jinja&logoColor=white)  <!-- Red/orange variant, common for Jinja2 -->
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat&logo=yaml&logoColor=white)     <!-- Red from popular examples -->
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)       <!-- Official Git orange -->
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
 **Enterprise Platforms**
 
